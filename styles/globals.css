@@ -1,0 +1,11 @@
+
+.bytemd {
+  height: calc(100vh - 50px) !important;
+}
+
+@media screen and (max-width: 530px) {
+  .bytemd {
+    margin-top: 80px;
+    height: calc(100vh - 80 px) !important;
+  }
+}

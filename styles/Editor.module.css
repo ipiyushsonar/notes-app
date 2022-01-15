@@ -1,0 +1,7 @@
+.titleInput {
+  margin-bottom: 10px;
+  border: 0.1363636363636em solid #161a2b;
+  -webkit-box-shadow: 0.3181818181818em 0.3181818181818em 0 #faf4d3;
+  box-shadow: 0.3181818181818em 0.3181818181818em 0 #faf4d3;
+  outline: none;
+}

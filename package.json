@@ -1,0 +1,41 @@
+{
+  "name": "noteapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@bytemd/plugin-breaks": "^1.10.13",
+    "@bytemd/plugin-footnotes": "^1.10.13",
+    "@bytemd/plugin-frontmatter": "^1.10.13",
+    "@bytemd/plugin-gemoji": "^1.10.13",
+    "@bytemd/plugin-gfm": "^1.10.13",
+    "@bytemd/plugin-highlight": "^1.10.13",
+    "@bytemd/plugin-math": "^1.10.13",
+    "@bytemd/plugin-medium-zoom": "^1.10.13",
+    "@bytemd/plugin-mermaid": "^1.10.13",
+    "@bytemd/react": "^1.10.13",
+    "@popmotion/popcorn": "^0.4.4",
+    "@reduxjs/toolkit": "^1.7.1",
+    "faunadb": "^4.4.1",
+    "framer-motion": "^5.5.5",
+    "github-markdown-css": "^5.1.0",
+    "highlight.js": "^11.3.1",
+    "js-cookie": "^3.0.1",
+    "lodash": "^4.17.21",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-dom": "17.0.2",
+    "react-modal": "^3.14.4",
+    "react-redux": "^7.2.6"
+  },
+  "devDependencies": {
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
